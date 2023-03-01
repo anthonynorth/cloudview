@@ -8,7 +8,7 @@
 [![R-CMD-check](https://github.com/anthonynorth/cloudview/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/anthonynorth/cloudview/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-View `htmlwidget` objects over ssh connections with vscode-remote.
+View `htmlwidget` objects over ssh connections, eg. with vscode-remote.
 
 ## Installation
 
