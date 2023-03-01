@@ -1,0 +1,15 @@
+Package: cloudview
+Title: Serves htmlwidgets over ssh
+Version: 0.1.0
+Authors@R: c(
+    person("Anthony", "North", , "anthony.jl.north@gmail.com", role = c("aut", "cre")),
+    person("Miles", "McBain", , "miles.mcbain@gmail.com", role = "ctb")
+  )
+Description: Enables viewing htmlwidgets over ssh.
+License: MIT + file LICENSE
+Imports:
+    servr,
+    withr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
